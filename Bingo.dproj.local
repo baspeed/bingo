@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/28 10:47:28.000.032,=C:\Users\nacho\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/19 21:57:35.000.010,=C:\Users\nacho\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/24 23:50:13.000.616,=C:\Users\nacho\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/11/27 19:41:03.000.625,=C:\Users\nacho\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/11/27 21:12:48.000.826,=C:\Users\nacho\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/12/06 22:40:46.000.300,=C:\Users\nacho\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/12/06 22:42:14.000.209,=C:\Users\nacho\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/02/05 20:38:10.000.090,=C:\Users\nacho\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/02/05 20:39:22.000.590,=C:\Users\nacho\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/09/24 11:05:48.000.052,=C:\Users\nacho\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/09/24 11:07:47.000.423,C:\Users\nacho\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\nacho\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/09/24 11:07:47.000.423,C:\Users\nacho\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\nacho\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/09/24 11:07:52.000.750,C:\Users\nacho\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\nacho\OneDrive\Documentos\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2023/09/25 11:45:19.000.935,C:\Users\nacho\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=I:\Proyectos\Bingo\Bingo.dproj</Transaction>
+    <Transaction>2023/09/25 11:45:42.000.025,C:\Users\nacho\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=I:\Proyectos\Bingo\Unit1.pas</Transaction>
+    <Transaction>2023/09/25 11:45:42.000.025,C:\Users\nacho\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=I:\Proyectos\Bingo\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
